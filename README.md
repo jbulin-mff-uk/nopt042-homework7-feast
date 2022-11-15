@@ -10,7 +10,7 @@ A chef is planning a magnificent feast consisting of a sequence of dishes. Each 
 
 The magnificence of the feast, which we want to maximize, is given by the sum of the value of the dishes.
 
-Try to use the constraint `regular` at least once. Running
+Use the constraint `regular` in your model. Running
 ```
 picat feast.pi instance.pi
 ```
